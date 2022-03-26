@@ -1,0 +1,22 @@
+
+ #welcome{
+   
+    text-align: center;
+ } 
+ 
+ .profile { width: 175px; margin-bottom: 50px; border-radius: 50%; }
+
+    
+
+body{
+    background:linear-gradient(#84bdb5 0%,#9c005b 100%);
+    
+    text-align: center;
+}
+
+.links:hover{
+    background-color: firebrick;
+}
+      .links{
+        link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,900&display=swap" rel="stylesheet"
+      }  
